@@ -1,0 +1,6 @@
+{
+  "name": "GDP & Per-Capita GDP Interactive Guide",
+  "description": "An interactive visual economics lesson for Hong Kong Form 4 students exploring the relationship between Total GDP, Population, and Per-Capita GDP through the pizza analogy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
